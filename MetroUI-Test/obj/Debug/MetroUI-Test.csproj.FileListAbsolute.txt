@@ -1,0 +1,14 @@
+C:\Users\jsolanas\source\repos\MetroUI-Test\MetroUI-Test\bin\Debug\MetroUI-Test.exe.config
+C:\Users\jsolanas\source\repos\MetroUI-Test\MetroUI-Test\bin\Debug\MetroUI-Test.exe
+C:\Users\jsolanas\source\repos\MetroUI-Test\MetroUI-Test\bin\Debug\MetroUI-Test.pdb
+C:\Users\jsolanas\source\repos\MetroUI-Test\MetroUI-Test\bin\Debug\MetroFramework.Design.dll
+C:\Users\jsolanas\source\repos\MetroUI-Test\MetroUI-Test\bin\Debug\MetroFramework.dll
+C:\Users\jsolanas\source\repos\MetroUI-Test\MetroUI-Test\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\jsolanas\source\repos\MetroUI-Test\MetroUI-Test\obj\Debug\MetroUI-Test.csprojAssemblyReference.cache
+C:\Users\jsolanas\source\repos\MetroUI-Test\MetroUI-Test\obj\Debug\MetroUI_Test.Login.resources
+C:\Users\jsolanas\source\repos\MetroUI-Test\MetroUI-Test\obj\Debug\MetroUI_Test.Properties.Resources.resources
+C:\Users\jsolanas\source\repos\MetroUI-Test\MetroUI-Test\obj\Debug\MetroUI-Test.csproj.GenerateResource.cache
+C:\Users\jsolanas\source\repos\MetroUI-Test\MetroUI-Test\obj\Debug\MetroUI-Test.csproj.CopyComplete
+C:\Users\jsolanas\source\repos\MetroUI-Test\MetroUI-Test\obj\Debug\MetroUI-Test.exe
+C:\Users\jsolanas\source\repos\MetroUI-Test\MetroUI-Test\obj\Debug\MetroUI-Test.pdb
+C:\Users\jsolanas\source\repos\MetroUI-Test\MetroUI-Test\obj\Debug\MetroUI_Test.CustomerRegister.resources
